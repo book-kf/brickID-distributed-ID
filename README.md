@@ -12,6 +12,4 @@ mysql
 
 ini
 
-jwt-go
-
 zap
